@@ -5,7 +5,8 @@ locale: en_US
 description: I suppose he just sees us all as lazy and self-entitled.
 logo: site-logo.jpg
 search: true
-url: https://cybourgeoisie.github.io
+#url: https://cybourgeoisie.github.io
+url: http://localhost:4000
 comments: true
 
 # Jekyll configuration

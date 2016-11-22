@@ -6,7 +6,8 @@ image:
   feature: particle-collision.jpg 
 ---
 
-I'll fill this out later. We're not in a hurry, are we?
+I'll fill this out in more detail later. We're not in a hurry, are we?
 
-My name is Ben, and I do computer science.
+My name is Ben, and I do computers. I program for a hobby and attend grad school for computer science. I'm also interested in writing, physics, astronomy, photography, karate, music, and playing bass guitar.
 
+My artsy crap can be found at [WakingDream.Space](http://wakingdream.space).
