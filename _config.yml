@@ -1,11 +1,12 @@
 # Site wide configuration
 
-title: Site Title
+title: Cybourgeoisie
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: I suppose he just sees us all as lazy and self-entitled.
+logo: site-logo.jpg
 search: true
 url: http://localhost:4000
+comments: true
 
 # Jekyll configuration
 
@@ -36,16 +37,16 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Ben Heidorn
   avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  email: rbenheidorn@gmail.com
+  disqus-shortname: cybourgeoisie
+  twitter: cybourgeoisie
+  facebook: cybourgeoisie
+  github: cybourgeoisie
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
+  linkedin: rbenheidorn
+  instagram: cybourgeoisie
   flickr: #username
   tumblr: #username
   pinterest: #username
