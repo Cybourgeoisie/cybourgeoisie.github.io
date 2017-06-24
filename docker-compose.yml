@@ -1,0 +1,10 @@
+version: '2'
+services:
+  web:
+    image: cybourgeoisie
+    container_name: cybourgeoisie
+    ports:
+    - "4000:80"
+    volumes:
+    - ./:/srv/jekyll
+    tty: true
